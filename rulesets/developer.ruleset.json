@@ -16,6 +16,7 @@
     { "id": "AS0073", "action": "Error" },
     { "id": "AS0075", "action": "Error" },
     { "id": "AS0076", "action": "Error" },
-    { "id": "PC0037", "action": "Hidden" }
+    { "id": "PC0037", "action": "Hidden" },
+    { "id": "LC0098", "action": "Hidden" }
   ]
 }
