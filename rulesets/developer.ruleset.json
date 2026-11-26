@@ -5,6 +5,8 @@
     { "id": "AL0432", "action": "Error" },
     { "id": "AL0606", "action": "Error" },
     { "id": "AL0667", "action": "Error" },
+    { "id": "AL0935", "action": "None" },
+    { "id": "AL0936", "action": "None" },
     { "id": "AA0214", "action": "None" },
     { "id": "AA0215", "action": "None" },
     { "id": "AA0247", "action": "None" },
