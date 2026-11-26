@@ -29,6 +29,11 @@
     { "id": "AS0076", "action": "Error", "levels": ["developer"], "stages": ["default"], "justification": "Obsolete Tag must have a specific format." },
     { "id": "AS0076", "action": "Error", "levels": ["pipeline"], "stages": ["default"], "justification": "Obsolete Tag must have a specific format." },
     { "id": "AW0011", "action": "None", "levels": ["developer"], "stages": ["default"], "justification": "PromotedOnly: ignore" },
-    { "id": "PC0037", "action": "Hidden", "levels": ["*"], "stages": ["default"] }
+    { "id": "PC0037", "action": "Hidden", "levels": ["*"], "stages": ["default"] },
+    { "id": "LC0092", "action": "None", "levels": ["*"], "stages": ["default"], "justification": "Our naming conventions is different" },
+    { "id": "AC0030", "action": "None", "levels": ["*"], "stages": ["default"], "justification": "Too noisy" },
+    { "id": "LC0090", "action": "None", "levels": ["*"], "stages": ["default"], "justification": "Too noisy" },
+    { "id": "LC0010", "action": "None", "levels": ["*"], "stages": ["default"], "justification": "Too noisy" },
+    { "id": "LC0008", "action": "None", "levels": ["*"], "stages": ["default"], "justification": "Too noisy" }
   ]
 }
