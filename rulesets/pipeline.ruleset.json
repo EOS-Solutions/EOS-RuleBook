@@ -5,8 +5,6 @@
     { "id": "AL0432", "action": "Error" },
     { "id": "AL0606", "action": "Error" },
     { "id": "AL0667", "action": "Error" },
-    { "id": "AL0935", "action": "None" },
-    { "id": "AL0936", "action": "None" },
     { "id": "AA0214", "action": "None" },
     { "id": "AA0215", "action": "None" },
     { "id": "AA0247", "action": "None" },
@@ -19,10 +17,10 @@
     { "id": "AS0075", "action": "Error" },
     { "id": "AS0076", "action": "Error" },
     { "id": "PC0037", "action": "Hidden" },
-    { "id": "PC0039", "action": "None" },
-    { "id": "PC0040", "action": "None" },
-    { "id": "AC0035", "action": "None" },
-    { "id": "DC0011", "action": "None" },
-    { "id": "FC0008", "action": "None" }
+    { "id": "AC0030", "action": "None" },
+    { "id": "LC0008", "action": "None" },
+    { "id": "LC0010", "action": "None" },
+    { "id": "LC0090", "action": "None" },
+    { "id": "LC0092", "action": "None" }
   ]
 }
